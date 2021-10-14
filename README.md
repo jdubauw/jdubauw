@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [tevpro.com/blog](https://tevpro.com/blog)
 
-- 💬 Ask me about **Angular • React • Ionic • NestJS • C# • Azure**
+- 💬 Ask me about **Angular • React • Ionic • NestJS • C# • Azure • Next.js**
 
 - 📫 How to reach me **justin@tevpro.com**
 
