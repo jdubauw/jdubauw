@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin Waldrip</h1>
 <h3 align="center">Solution Architect specializing in C#, Node, Angular, React and Ionic with full stack development experience in web, mobile and cloud solutions.</h3>
 
-- 📝 I regularly write articles on [tevpro.com/blog](tevpro.com/blog)
+- 📝 I regularly write articles on [tevpro.com/blog](https://tevpro.com/blog)
 
 - 💬 Ask me about **Angular • React • Ionic • NestJS • C# • Azure**
 
