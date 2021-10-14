@@ -9,6 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy assets alongside your NestJS API](https://tevpro.com/blog/how-to-deploy-assets-alongside-your-nestjs-api/)
+- [How to sort ZERO or NULL values LAST in MongoDB](https://tevpro.com/blog/how-to-sort-zero-or-null-values-last-in-mongodb/)
+- [Migrating ColdFusion Applications to Lucee](https://tevpro.com/blog/migrating-coldfusion-applications-to-lucee/)
+- [How to Set Up a Reverse Proxy Server Using IIS](https://tevpro.com/blog/using-iis-as-a-reverse-proxy-server/)
+- [Why your next application should be built with NestJS](https://tevpro.com/blog/why-your-next-application-should-be-built-with-nestjs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
